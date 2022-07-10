@@ -1,4 +1,4 @@
-# pandas-get-dummies
+# A new way to solve the problem of one hot encoding
 
 ***
 
