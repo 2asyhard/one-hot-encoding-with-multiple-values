@@ -1,5 +1,5 @@
 # A new way to solve the problem of one hot encoding
-[Details(medium)](https://medium.com/@tetaeho/one-hot-encoding-with-multiple-values-506a88333aac)
+[Related article](https://medium.com/@tetaeho/one-hot-encoding-with-multiple-values-506a88333aac)
 ***
 
 ## Motive
